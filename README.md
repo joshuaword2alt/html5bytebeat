@@ -186,5 +186,4 @@ Special thanks to:
 * Mr.Doob for his [GLSL Sandbox](http://mrdoob.com/projects/glsl_sandbox/) where much of this code was cribbed.
 * Nathan Rugg for his [LZMA-JS library](https://github.com/nmrugg/LZMA-JS).
 * Darius Bacon for his [bytebeat program](https://github.com/darius/bytebeat) and for tips and examples to test it.
-Examples : https://youtu.be/tCRPUv8V22o
-windows93.net built in
+Examples : https://youtu.be/tCRPUv8V22o https://www.windows93.net/ built in
