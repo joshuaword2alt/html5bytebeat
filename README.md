@@ -186,5 +186,12 @@ Special thanks to:
 * Mr.Doob for his [GLSL Sandbox](http://mrdoob.com/projects/glsl_sandbox/) where much of this code was cribbed.
 * Nathan Rugg for his [LZMA-JS library](https://github.com/nmrugg/LZMA-JS).
 * Darius Bacon for his [bytebeat program](https://github.com/darius/bytebeat) and for tips and examples to test it.
+
+
+
+
+
+Other projects i found :
+------------------------
 Examples : https://youtu.be/tCRPUv8V22o https://www.windows93.net/ built in
 other bytebeat website : http://wurstcaptures.untergrund.net/music/ 8-bit http://entropedia.co.uk/generative_music/#v3b64K0otKS3KU9AoUdMosbMz09TWKLGx0QCxDQ014yAMY01tY03NGgjHRNXMBKQKxNTU1FTT0AUyTTU1rRX0tRRCihKTsxWcixLTSioVkioVAhJLcxQ8EitTixW09AE=
